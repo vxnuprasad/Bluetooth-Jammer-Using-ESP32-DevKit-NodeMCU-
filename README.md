@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/vxnuprasad"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
-<a href="https://interncrafters.netlify.app/"><img title="Website" src="https://img.shields.io/badge/Website-Intern--Crafters-green.svg?style=for-the-badge&logo=sites"></a>
+<a href="[https://interncrafters.netlify.app/](https://vxnuprasad.github.io/)"><img title="Website" src="https://img.shields.io/badge/Website-vxnuprasad-green.svg?style=for-the-badge&logo=sites"></a>
 </p>
 
 ## Disclaimer
