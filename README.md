@@ -1,7 +1,7 @@
 # Bluetooth Jammer Using ESP32 (DevKit / NodeMCU)
 
 <p align="center">
-<a href="#"><img title="device" src="device.png"></a>
+<a href="#"><img title="Poster" src="Poster.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/vxnuprasad"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
