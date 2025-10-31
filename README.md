@@ -43,7 +43,7 @@ The **NRF24L01** is a low-power 2.4 GHz wireless transceiver module widely use
 **ESP32** is a powerful, low-cost microcontroller featuring WiFi and Bluetooth connectivity, multiple SPI buses, and rich peripherals. It’s used extensively in IoT, robotics, and wireless projects due to its versatility and ease of programming.
 
 ## Dual NRF24L01 Setup (ESP32 DevKit / NodeMCU Wiring)
-<a href="#"><img title="wiring" src="Wiring.jpg"></a>
+<a href="#"><img title="Wiring" src="Wiring.png"></a>
 
 Both NRF24 modules’ VCC to 3.3V and GND to ground, with capacitors for power stability.
 
