@@ -1,4 +1,13 @@
 # Bluetooth Jammer Using ESP32 (DevKit / NodeMCU)
+
+<p align="center">
+<a href="#"><img title="device" src="device.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/vxnuprasad"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="https://interncrafters.netlify.app/"><img title="Website" src="https://img.shields.io/badge/Website-Intern--Crafters-green.svg?style=for-the-badge&logo=sites"></a>
+</p>
+
 ## Disclaimer
 This project is **strictly for educational and authorized penetration testing purposes only**. Wireless jamming devices are illegal in many countries when used without permission and can disrupt critical communications. I assume no responsibility for misuse or damage caused by this device. Use responsibly and legally, in controlled test environments only.
 
